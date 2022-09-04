@@ -1,6 +1,6 @@
 # OSRS_Nightmare_Zone_calculator
 
-Note: probably be outdated.
+Note: probably outdated.
 
 Also note: this was a fun little project and the code was never meant to be nice and readable. Sorry.
 
